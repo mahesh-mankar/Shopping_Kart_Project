@@ -1,4 +1,3 @@
-import time
 
 from pageObjects.LoginPage import Login
 
@@ -20,7 +19,6 @@ class Test_URL_Login:
         self.lp.enter_username("standard_user")
         self.lp.enter_password("secret_sauce")
         self.lp.click_login()
-        time.sleep(5)
         if self.lp.login_status() == True:
             self.driver.save_screenshot("C:\\Users\\LENOVO\\PycharmProjects\\pythonProject\\Shopping_Kart\\Screenshots\\test_login_002_Pass.png")
             self.lp.click_menu_button()
