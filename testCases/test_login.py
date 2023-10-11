@@ -1,8 +1,11 @@
 
 from pageObjects.LoginPage import Login
+from utilities.Readconfigfile import ReadValues
 
 
 class Test_URL_Login:
+    username = ReadValues.getUsername()
+    password = ReadValues.getPassword()
 
     def test_URL_Validation(self, setup):
         self.driver = setup
@@ -16,8 +19,8 @@ class Test_URL_Login:
     def test_login_002(self, setup):
         self.driver = setup
         self.lp = Login(self.driver)
-        self.lp.enter_username("standard_user")
-        self.lp.enter_password("secret_sauce")
+        self.lp.enter_username(self.username)
+        self.lp.enter_password(self.password)
         self.lp.click_login()
         if self.lp.login_status() == True:
             self.driver.save_screenshot("C:\\Users\\LENOVO\\PycharmProjects\\pythonProject\\Shopping_Kart\\Screenshots\\test_login_002_Pass.png")
