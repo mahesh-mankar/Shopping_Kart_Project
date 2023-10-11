@@ -1,0 +1,15 @@
+2023-10-11 20:55:51,991 : INFO : root : Opening Browser
+2023-10-11 20:55:51,991 : INFO : root : Checking page title
+2023-10-11 20:55:52,056 : INFO : root : test_URL_Validation is Pass
+2023-10-11 20:55:52,296 : INFO : root : test_URL_Validation is Completed
+2023-10-11 20:55:52,489 : INFO : root : Browser closed
+2023-10-11 20:55:56,517 : INFO : root : Opening Browser
+2023-10-11 20:55:56,517 : INFO : root : opening login page
+2023-10-11 20:55:56,526 : INFO : root : Enter username
+2023-10-11 20:55:56,782 : INFO : root : Enter password
+2023-10-11 20:55:56,855 : INFO : root : Click on login button
+2023-10-11 20:55:57,067 : INFO : root : test_login_002 is Pass
+2023-10-11 20:55:57,205 : INFO : root : Click on menu button
+2023-10-11 20:55:57,267 : INFO : root : Click on logout button
+2023-10-11 20:55:57,391 : INFO : root : test_login_002 is completed
+2023-10-11 20:55:57,518 : INFO : root : Browser closed
