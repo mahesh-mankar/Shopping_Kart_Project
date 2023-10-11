@@ -8,6 +8,11 @@ config.read("C:\\Users\\LENOVO\\PycharmProjects\\pythonProject\\Shopping_Kart\\C
 class ReadValues:
 
     @staticmethod
+    def getUrl():
+        url = config.get('login info', 'url')
+        return url
+
+    @staticmethod
     def getUsername():
         username = config.get('login info', 'username')
         return username
@@ -16,4 +21,3 @@ class ReadValues:
     def getPassword():
         password = config.get('login info', 'password')
         return password
-

@@ -5,6 +5,7 @@ from utilities.Logger import LogGen
 
 
 class Test_URL_Login:
+    url = ReadValues.getUrl()
     username = ReadValues.getUsername()
     password = ReadValues.getPassword()
     log = LogGen.loggen()
@@ -12,6 +13,8 @@ class Test_URL_Login:
     def test_URL_Validation(self, setup):
         self.log.info("Opening Browser")
         self.driver = setup
+        self.log.info("Go to url")
+        self.driver.get(self.url)
         self.log.info("Checking page title")
         if self.driver.title == "Swag Labs":
             self.log.info("test_URL_Validation is Pass")
@@ -28,6 +31,8 @@ class Test_URL_Login:
     def test_login_002(self, setup):
         self.log.info("Opening Browser")
         self.driver = setup
+        self.log.info("Go to url")
+        self.driver.get(self.url)
         self.log.info("opening login page")
         self.lp = Login(self.driver)
         self.log.info("Enter username")
