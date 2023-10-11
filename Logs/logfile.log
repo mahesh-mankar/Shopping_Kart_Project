@@ -57,3 +57,216 @@
 2023-10-11 21:38:29,207 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
 2023-10-11 21:38:29,332 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
 2023-10-11 21:38:29,470 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:48:19,397 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 21:48:19,397 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 21:48:19,655 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 21:48:19,712 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 21:48:33,555 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 21:48:33,555 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 21:48:33,747 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 21:48:33,835 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 21:48:34,004 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 21:48:34,068 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 21:48:34,125 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 21:48:42,443 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 21:48:42,459 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 21:48:42,536 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 21:48:42,618 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:49:13,587 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 21:49:13,587 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 21:49:13,587 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 21:49:21,502 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 21:49:21,534 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 21:49:21,656 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 21:49:21,753 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:49:22,115 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 21:49:22,115 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 21:49:22,281 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 21:49:22,364 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 21:49:22,499 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 21:49:22,556 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 21:49:22,615 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 21:49:34,417 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 21:49:34,417 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 21:49:34,489 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 21:49:34,489 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 21:49:45,084 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 21:49:45,084 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 21:49:45,245 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 21:49:45,326 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 21:49:45,459 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 21:49:45,528 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 21:49:45,593 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 21:49:46,501 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 21:49:46,523 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 21:49:46,692 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 21:49:46,760 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:50:01,522 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 21:50:01,522 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 21:50:01,625 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 21:50:01,625 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 21:50:11,247 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 21:50:11,247 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 21:50:11,395 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 21:50:11,503 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 21:50:11,630 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 21:50:11,695 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 21:50:11,759 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 21:50:12,074 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 21:50:12,082 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 21:50:12,170 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 21:50:12,279 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:51:03,519 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 21:51:03,519 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 21:51:03,527 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 21:51:03,527 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 21:51:22,352 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 21:51:22,360 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 21:51:22,473 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 21:51:22,546 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 21:51:22,675 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 21:51:22,739 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 21:51:22,796 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 21:51:24,061 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 21:51:24,068 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 21:51:24,159 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 21:51:24,245 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:52:13,648 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 21:52:13,648 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 21:52:13,838 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 21:52:13,846 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 21:52:23,141 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 21:52:23,149 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 21:52:23,311 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 21:52:23,392 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 21:52:23,440 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 21:52:23,448 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 21:52:23,554 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 21:52:23,606 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 21:52:23,642 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:52:23,711 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 21:52:23,809 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 21:52:56,205 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 21:52:56,210 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 21:52:57,094 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 21:52:57,102 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 21:53:11,759 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 21:53:11,759 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 21:53:11,944 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 21:53:12,060 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 21:53:12,333 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 21:53:12,353 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 21:53:12,368 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 21:53:12,564 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 21:53:12,612 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 21:53:12,817 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 21:53:12,928 : INFO : Test_URL_Login : test_login_002 : test_login_002 is completed
+2023-10-11 21:53:13,071 : INFO : Test_URL_Login : test_login_002 : Browser closed
+2023-10-11 21:53:13,259 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:53:28,555 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 21:53:28,555 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 21:53:28,866 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 21:53:28,866 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 21:53:36,476 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 21:53:36,525 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 21:53:36,694 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 21:53:36,776 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:53:39,294 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 21:53:39,294 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 21:53:39,603 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 21:53:39,703 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 21:53:39,884 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 21:53:39,966 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 21:53:40,036 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 21:54:25,812 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 21:54:25,812 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 21:54:25,840 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 21:54:25,840 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 21:54:34,955 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 21:54:34,980 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 21:54:35,134 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 21:54:35,223 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 21:54:35,946 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 21:54:35,946 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 21:54:36,091 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 21:54:36,170 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 21:54:36,344 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 21:54:36,419 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 21:54:36,484 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 22:03:17,345 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 22:03:17,350 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 22:03:17,672 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 22:03:17,672 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 22:03:37,921 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 22:03:37,921 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 22:03:38,082 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 22:03:38,163 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 22:03:38,293 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 22:03:38,359 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 22:03:38,422 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 22:03:45,398 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 22:03:45,404 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 22:03:45,484 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 22:03:45,570 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 22:04:34,662 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 22:04:34,664 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 22:04:34,670 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 22:04:34,678 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 22:04:47,944 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 22:04:47,944 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 22:04:48,138 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 22:04:48,227 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 22:04:48,404 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 22:04:48,501 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 22:04:48,565 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 22:04:51,417 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 22:04:51,430 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 22:04:51,507 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 22:04:51,596 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 22:06:55,311 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+ser
+2023-10-11 22:06:55,311 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 22:06:55,311 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 22:07:10,110 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 22:07:10,118 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 22:07:10,295 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 22:07:10,376 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 22:07:10,522 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 22:07:10,586 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 22:07:10,651 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 22:07:14,725 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 22:07:14,742 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 22:07:14,844 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 22:07:14,921 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 22:17:06,345 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 22:17:06,345 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 22:17:06,526 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 22:17:06,526 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 22:17:10,689 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 22:17:10,792 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 22:17:10,974 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 22:17:11,210 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 22:17:11,210 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 22:17:11,515 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 22:17:11,523 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 22:17:11,661 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 22:17:11,939 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 22:17:12,206 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 22:17:12,275 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 22:17:49,754 : INFO : Test_URL_Login : test_URL_Validation : Opening Browser
+2023-10-11 22:17:49,754 : INFO : Test_URL_Login : test_URL_Validation : Go to url
+2023-10-11 22:17:49,869 : INFO : Test_URL_Login : test_login_002 : Opening Browser
+2023-10-11 22:17:49,869 : INFO : Test_URL_Login : test_login_002 : Go to url
+2023-10-11 22:18:00,082 : INFO : Test_URL_Login : test_login_002 : opening login page
+2023-10-11 22:18:00,082 : INFO : Test_URL_Login : test_login_002 : Enter username
+2023-10-11 22:18:00,386 : INFO : Test_URL_Login : test_login_002 : Enter password
+2023-10-11 22:18:00,462 : INFO : Test_URL_Login : test_login_002 : Click on login button
+2023-10-11 22:18:00,486 : INFO : Test_URL_Login : test_URL_Validation : Checking page title
+2023-10-11 22:18:00,502 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Pass
+2023-10-11 22:18:00,655 : INFO : Test_URL_Login : test_URL_Validation : test_URL_Validation is Completed
+2023-10-11 22:18:00,782 : INFO : Test_URL_Login : test_login_002 : test_login_002 is Pass
+2023-10-11 22:18:00,952 : INFO : Test_URL_Login : test_login_002 : Click on menu button
+2023-10-11 22:18:01,055 : INFO : Test_URL_Login : test_URL_Validation : Browser closed
+2023-10-11 22:18:01,108 : INFO : Test_URL_Login : test_login_002 : Click on logout button
+2023-10-11 22:18:01,215 : INFO : Test_URL_Login : test_login_002 : test_login_002 is completed
+2023-10-11 22:18:01,316 : INFO : Test_URL_Login : test_login_002 : Browser closed
