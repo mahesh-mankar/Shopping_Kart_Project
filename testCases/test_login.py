@@ -1,7 +1,6 @@
 import time
 
-from selenium.common import NoSuchElementException
-from selenium.webdriver.common.by import By
+from pageObjects.LoginPage import Login
 
 
 class Test_URL_Login:
@@ -15,21 +14,14 @@ class Test_URL_Login:
 
     def test_login_002(self, setup):
         self.driver = setup
-        self.driver.find_element(By.ID, 'user-name').send_keys("standard_user")
-        self.driver.find_element(By.ID, 'password').send_keys("secret_sauce")
-        self.driver.find_element(By.ID, 'login-button').click()
-        try:
-            self.driver.find_element(By.XPATH, '//span[@class="title"]')
-            login = True
-        except NoSuchElementException:
-            login = False
-            pass
+        self.lp = Login(self.driver)
+        self.lp.enter_username("standard_user")
+        self.lp.enter_password("secret_sauce")
+        self.lp.click_login()
         time.sleep(5)
-        if login == True:
-            self.driver.find_element(By.ID, 'react-burger-menu-btn').click()
-            self.driver.find_element(By.ID, 'logout_sidebar_link').click()
+        if self.lp.login_status() == True:
+            self.lp.click_menu_button()
+            self.lp.click_logout_button()
             assert True
         else:
             assert False
-
-
