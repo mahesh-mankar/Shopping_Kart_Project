@@ -1,5 +1,5 @@
 
-from selenium.common import NoSuchElementException
+from selenium.common import NoSuchElementException, TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions
@@ -33,7 +33,7 @@ class Login:
             self.wait.until(expected_conditions.presence_of_element_located(self.Dashboard_PageTitle))
             self.driver.find_element(*Login.Dashboard_PageTitle)
             return True
-        except NoSuchElementException:
+        except (NoSuchElementException, TimeoutException):
             return False
 
     def click_menu_button(self):
